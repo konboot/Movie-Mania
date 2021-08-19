@@ -2,7 +2,7 @@
 
 
 
-Build a simple application using Flutter compatible with Android/iOS devices.
+#Build a simple application using Flutter compatible with Android/iOS devices.
 
 - Build a simple aesthetic app to add/edit/delete/list movies that a user has watched.
 - Show an infinite scrollable listview containing all the movies that a user has created.
